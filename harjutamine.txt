@@ -1,0 +1,2 @@
+GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks.
+Loob võimalused töötada projektiga sõltumata asukohast.
