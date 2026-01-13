@@ -1,2 +1,6 @@
 GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks.
 Loob võimalused töötada projektiga sõltumata asukohast.
+
+
+
+Saan Githubi kasutada õppeprojektide jaoks, programmeerimiseks ja oma tööde salvestamiseks.
