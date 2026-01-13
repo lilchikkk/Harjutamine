@@ -4,3 +4,5 @@ Loob võimalused töötada projektiga sõltumata asukohast.
 
 
 Saan Githubi kasutada õppeprojektide jaoks, programmeerimiseks ja oma tööde salvestamiseks.
+GitHub Inc. see asutati 2008.aastal Tom Preston-Werner, Chris Vanstrat ja PJ Hayett. 
+GitHub sai kasutajatele kättesaadavaks ka 2008.aastal.
